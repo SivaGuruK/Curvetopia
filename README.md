@@ -11,7 +11,7 @@ Ensure you have Python 3.10 or higher installed on your system.
 Clone the Repository
 
 # bash
-git clone https://github.com/yourusername/curvetopia.git
+git clone https://github.com/SivaGuruK/Curvetopia/.git
 cd curvetopia
 Install Dependencies
 
